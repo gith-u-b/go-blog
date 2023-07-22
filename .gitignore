@@ -1,0 +1,5 @@
+.idea/
+*.log
+runtime/upload/*
+*.xlsx
+runtime/qrcode/*.jpg
